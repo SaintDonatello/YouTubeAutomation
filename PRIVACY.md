@@ -62,4 +62,4 @@ You have the right to:
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
 ## Contact Us
-If you have any questions about this Privacy Policy, please create an issue in our GitHub repository.
+If you have any questions about this Privacy Policy, please create an issue in our GitHub repository.1
